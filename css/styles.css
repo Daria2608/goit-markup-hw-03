@@ -1,0 +1,206 @@
+
+body {
+ font-family: "Roboto", sans-serif;
+ color: #434455;
+ background-color: #ffffff; 
+}
+
+button {
+ cursor:pointer ;
+color: #FFFFFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+background-color: #4D5AE5;
+font-family: "Roboto",
+ sans-serif;
+}
+
+button:hover, button:focus {
+background-color: #404BBF;
+}
+
+a {
+ text-decoration: none;
+ font-style: normal; 
+}
+
+a:hover, a:focus {
+ color: #404BBF;
+}
+
+ul, ol {
+ list-style-type: none;
+}
+
+.main-contact {
+font-style: normal;
+}
+
+/* Header styles */
+
+.logotype {
+ font-family: 'Raleway', sans-serif;
+ font-size: 18px;
+ font-weight: 700;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+ color: #4D5AE5;
+}
+
+.logotype .logotype-span {
+ color: #2E2F42;
+}
+
+.menu-link {
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+ color: #2E2F42;
+}
+
+.address-link {
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+
+/* Header styles */
+
+/* Hero section styles */
+
+.about-us {
+    background-color: #2E2F42;
+}
+
+h1 {
+ color: #FFFFFF;
+ text-align: center;
+ font-size: 56px;
+ line-height: 1.07;
+ letter-spacing: 0.02em;
+ background-color: #2E2F42;
+}
+
+/* Hero section styles */
+
+/* Benefits styles */
+
+
+.our-benefits {
+    background-color: #FFFFFF;
+}
+
+.our-benefits-title {
+    color: #FFFFFF;
+}
+
+.benefits-list-item-title  {
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 1.2;
+ letter-spacing: 0.02em;
+ color: #2E2F42;
+}
+
+.benefits-paragraph-text {
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+}
+
+/* Benefits styles */
+
+/* Team styles */
+
+.about-team {
+ background-color: #F4F4FD;
+}
+
+.team-list-item {
+    background-color: #FFFFFF;
+}
+
+.our-team-title {
+text-align: center;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+
+.team-name {
+color: #2E2F42;
+text-align: center;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.team-profession {
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.our-team-section {
+    background-color: #FFFFFF;
+}
+/* Team styles */
+
+/* Portfolio styles */
+
+.portfolio-list-item {
+    background-color: #FFFFFF;
+}
+
+.portfolio-title {
+text-align: center;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+
+.portfolio-list-item-title {
+ color: #2E2F42 ;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.portfolio-item-text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+/* Portfolio styles */
+
+/* Footer styles */
+
+footer {
+background-color: #2E2F42;
+}
+
+.logotype-span-white {
+color: #F4F4FD;
+}
+
+.text-footer {
+color: #F4F4FD;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
