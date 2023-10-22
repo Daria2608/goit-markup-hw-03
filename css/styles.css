@@ -325,7 +325,6 @@ display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: 8px;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
@@ -338,6 +337,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
 margin-bottom: 72px;
+margin-bottom: 8px
 }
 
 .portfolio-list-item-title {
@@ -378,6 +378,7 @@ color: #F4F4FD;
 .logotype-link-footer {
     display: inline-block;
     margin-right: 0;
+    margin-bottom: 16px;
 }
 
 .text-footer {
