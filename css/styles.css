@@ -337,7 +337,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
 margin-bottom: 72px;
-margin-bottom: 8px
+margin-bottom: 8px;
 }
 
 .portfolio-list-item-title {
@@ -373,7 +373,6 @@ padding: 100px 0;
 color: #F4F4FD;
 
 }
-
 
 .logotype-link-footer {
     display: inline-block;
