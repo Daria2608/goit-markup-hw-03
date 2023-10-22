@@ -255,6 +255,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
 margin-bottom: 72px;
+
 }
 
 .container-about-team {
@@ -337,7 +338,6 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
 margin-bottom: 72px;
-margin-bottom: 8px;
 }
 
 .portfolio-list-item-title {
@@ -346,6 +346,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
+margin-bottom: 8px;
 }
 
 .portfolio-item-text {
