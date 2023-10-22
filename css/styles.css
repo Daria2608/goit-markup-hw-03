@@ -84,7 +84,6 @@ align-items: center;
     display: inline-flex;
     align-items: flex-start;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .address-list {
@@ -114,6 +113,7 @@ align-items: center;
  line-height: 1.5;
  letter-spacing: 0.02em;
  color: #2E2F42;
+ padding: 24px 0;
 }
 
 .address-link {
@@ -340,6 +340,7 @@ display: flex;
     align-items: flex-start;
     gap: 8px;
     align-self: stretch;
+    border: 1px solid #e7e9fc;
 }
 
 .portfolio-title {
@@ -373,7 +374,7 @@ margin-bottom: 0;
 /* Footer styles */
 
 footer {
-    
+
 height: 312px;
 flex-shrink: 0;
 background-color: #2E2F42;
@@ -383,7 +384,7 @@ background-color: #2E2F42;
 padding: 100px 0;
 }
 .footer-container {
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     justify-content: center;}
 
@@ -393,7 +394,6 @@ color: #F4F4FD;
 }
 
 .logotype-link-footer {
-    display: inline-block;
     margin-bottom: 16px;
 }
 
