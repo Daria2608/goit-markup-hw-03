@@ -386,10 +386,6 @@ background-color: #2E2F42;
 .page-footer {
 padding: 100px 0;
 }
-.footer-container {
-    display: inline-block;
-    flex-direction: column;
-    justify-content: center;}
 
 .logotype-span-white {
 color: #F4F4FD;
@@ -397,6 +393,7 @@ color: #F4F4FD;
 }
 
 .logotype-link-footer {
+    display: inline-block;
     margin-bottom: 16px;
 }
 
