@@ -392,6 +392,11 @@ color: #F4F4FD;
 
 }
 
+.logo-footer {
+        display: inline-block;
+        margin-bottom: 16px;
+}
+
 .logotype-link-footer {
     display: inline-block;
     margin-bottom: 16px;
