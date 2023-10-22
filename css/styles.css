@@ -101,6 +101,7 @@ align-items: center;
  text-transform: uppercase;
  color: #4D5AE5;
  margin-right: 76px;
+padding: 24px 0;
 }
 
 .logotype .logotype-span {
@@ -122,6 +123,7 @@ align-items: center;
  line-height: 1.5;
  letter-spacing: 0.02em;
 color: #434455;
+padding: 24px 0;
 }
 
 .address-list {
